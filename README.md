@@ -12,6 +12,7 @@
 https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1
 
 # link da página públicada:
+https://michelemedeiros.github.io/apeperia/
 
 # Objetivo do curso:
 <p>Aprimorar as técnicas no desenvolvimento de uma página utilizando mobile first. 
