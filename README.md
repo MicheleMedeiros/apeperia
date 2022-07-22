@@ -14,4 +14,4 @@ https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=
 # link da página públicada:
 
 # Objetivo do curso:
-<p>Aprimorar as técnicas no desenvolvimento de uma página usando mobile first. 
+<p>Aprimorar as técnicas no desenvolvimento de uma página utilizando mobile first. 
